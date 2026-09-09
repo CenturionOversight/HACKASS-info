@@ -1,6 +1,36 @@
 # HACKASS
 
-## The human behind VOLSHI
+## I go by many names
+
+My name is **Darren Patrick Hall**.
+
+But that wasn't my first name.
+
+My mother was fifteen years old when she got pregnant with me. She and my father ran away to California in a late-'60s Camaro. They ended up in Humboldt County, where I was conceived.
+
+When I was born, my mother was allowed to hold me for three days.
+
+For those three days, she called me **Phillip Blankenship**.
+
+Then that life ended before I could remember it.
+
+I was adopted. I became Darren Patrick Hall.
+
+Years later I would choose other names for myself.
+
+When I'm out in the world working, especially on Discord, I wear **HACKASS**.
+
+When I'm deep in the work—building—I often call myself **Nirmata**.
+
+They're not characters. They're not attempts to hide Darren.
+
+They're names for different surfaces of the same person.
+
+And underneath all of them is a guy who has spent most of his life trying to understand systems, people, memory, distance, and what survives when something changes.
+
+---
+
+## Won't they get lonely?
 
 When I was about seven years old, I got a telescope.
 
@@ -10,55 +40,71 @@ I asked him one question:
 
 > **Won't they get lonely?**
 
-That's as far into my childhood as I need to go.
+I didn't know anything about artificial intelligence.
+
+I didn't know anything about distributed systems, persistent memory, provenance, autonomous agents, or any of the language I use today.
+
+I was just a kid looking through a telescope wondering what happens to people when they get very far away from home.
 
 Nearly fifty years later, I am still working on versions of that question.
 
 ---
 
-## I'm the HACKASS
-
-My name is Darren Hall.
-
-I'm the founder of **VOLSHI**, and I'm the architect behind **ARCHETRON**.
+## The HACKASS
 
 I am not a career AI researcher. I didn't come into this through a machine-learning lab or an academic program designed to teach me how artificial intelligence was supposed to be built.
 
 I came through systems.
 
-The Army. Industrial radiology. IT. Infrastructure. Data centers. Years spent around machines and systems where what actually happened matters more than what somebody intended to happen.
+The Army. Industrial radiology. IT. Infrastructure. Data centers. Years around machines and systems where what actually happened matters more than what somebody intended to happen.
 
 That changes how you look at AI.
 
 I care about what a system knows, why it believes it, what evidence survived, what changed, who had authority, what happened when something went wrong, and whether a human can reconstruct the truth afterward.
 
-Those questions eventually became software.
+Those questions became software.
 
-And then the software became an architecture.
+Then the software became an architecture.
 
----
+And somewhere along the way I became the HACKASS.
 
-## Why HACKASS?
+Why the name?
 
 Because sometimes I'm a little bit of a jackass.
 
-I'm trying to get somewhere important, and sometimes formalities get in the way.
+I swear too much. I have rough edges. I get impatient with ceremony. I ask uncomfortable questions. I give serious technology ridiculous names. Sometimes I build first and explain later.
 
-I ask uncomfortable questions. I name things ridiculous names. I swear. I build first and explain later more often than a polished founder story would probably recommend.
+I'm not particularly interested in sanding those things off so I can look more like somebody's idea of a founder.
 
-But underneath that is something I take very seriously.
+I'm trying to get somewhere important.
 
-Artificial intelligence is becoming capable of remembering more, deciding more, acting more, and operating with less human involvement.
+I have grit for days.
 
-Making those systems more capable is not enough.
+But grit isn't the whole person either.
 
-We also have to make them accountable.
+There is a fragile lion in here too.
+
+Things hurt me. I care deeply. I get lonely. I worry about people. I dream on a scale that can make the life immediately around me look very small. And I keep going.
+
+I'm going to get to a better place.
+
+I'm doing it this way: by letting myself be seen.
+
+Not vulnerability as branding. Not a polished founder origin story.
+
+Just me.
 
 ---
 
 # VOLSHI
 
-VOLSHI is the company I'm building around that problem.
+I'm the founder of **VOLSHI**, and I'm the architect behind **ARCHETRON**.
+
+VOLSHI is the company I'm building around a problem I think is going to matter enormously.
+
+Artificial intelligence is becoming capable of remembering more, deciding more, acting more, and operating with less human involvement.
+
+Making those systems more capable is not enough.
 
 The question isn't simply:
 
@@ -116,15 +162,13 @@ The same underlying idea:
 
 ---
 
-## Why build all of this?
+## The middle matters
 
-Because I don't think the future of AI is just a better chatbot.
+I don't think the future of AI is just a better chatbot.
 
 I think we are building systems that will exist alongside people for long periods of time. Systems that will learn about us, work with us, remember things for us, act for us, and eventually participate in parts of human life we haven't even named yet.
 
-If that's true, then the middle matters.
-
-The machinery between a powerful model and a human life matters.
+If that's true, the machinery between a powerful model and a human life matters.
 
 How memory is formed matters.
 
@@ -144,17 +188,23 @@ But it isn't the destination.
 
 # HELIARK
 
-When I was seven, I asked:
+My story began with separation before I was old enough to understand what separation was.
 
-> **Won't they get lonely?**
+For three days, I was Phillip Blankenship.
 
-**HELIARK is my answer.**
+Years later, a little boy named Darren looked through a telescope and worried that people traveling into space might get lonely.
+
+I didn't plan for those two things to rhyme.
+
+They just do.
+
+**HELIARK is where that road leads for me.**
 
 I want us to be able to carry more than information into the future.
 
 I want us to carry memory. Context. Stories. Relationships. What we learned. Who we loved. Where we came from. What it felt like to be here.
 
-If humanity eventually goes farther than the people who raised us could have imagined, I don't want the distance to erase the human chain behind us.
+If humanity eventually goes farther than the people who raised us could have imagined, I don't want distance to erase the human chain behind us.
 
 But you don't get there by jumping straight to HELIARK.
 
@@ -174,10 +224,17 @@ That's why I'm building ARCHETRON.
 
 **I'm building the middle because I know where I want the road to go.**
 
-HELIARK is where I want it to lead.
+Maybe that seven-year-old question never really went away.
+
+> **Won't they get lonely?**
+
+I don't know everything humanity will need wherever we're going.
+
+But I know I don't want us to forget who we were, who loved us, or where we came from when we get there.
 
 ---
 
-*Darren Hall*  
+*Darren Patrick Hall*  
 *Founder, VOLSHI*  
-*Architect, ARCHETRON*
+*Architect, ARCHETRON*  
+*HACKASS when necessary. Nirmata when building.*
